@@ -1,4 +1,5 @@
 # Kaggle_Projects
-Notebooks/scripts for Kaggle projects
 
-These are Databricks notebooks (as HTML files)
+### Please visit the links below to view the Databricks notebooks:
+
+[Titanic Survival Prediction](https://sshepherd-wm.github.io/Kaggle_Projects/Titanic_Survival_Notebook.html, "Titanic")
